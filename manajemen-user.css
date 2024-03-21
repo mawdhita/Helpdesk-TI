@@ -1,0 +1,148 @@
+.manajemen-user-child {
+    position: absolute;
+    top: -32px;
+    left: 0;
+    background-color: var(--color-gainsboro);
+    width: 304px;
+    height: 1056px;
+  }
+  .manajemen-user-item {
+    position: absolute;
+    top: -2px;
+    left: 0;
+    background: linear-gradient(-62.66deg, #528eba, rgba(95, 150, 190, 0));
+    width: 304px;
+    height: 138px;
+  }
+  .image-17 {
+    position: absolute;
+    top: 962px;
+    left: 362px;
+    width: 245px;
+    height: 46px;
+  }
+  .software-engineer-1-icon {
+    position: absolute;
+    top: 27px;
+    left: 22px;
+    width: 75px;
+    height: 71px;
+    object-fit: cover;
+  }
+  .admin {
+    position: absolute;
+    top: 46px;
+    left: 133px;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-lalezar);
+    color: var(--color-white);
+    display: inline-block;
+    width: 150px;
+    height: 33px;
+  }
+  .manajemen-user-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 153px;
+    left: 0;
+    background-color: var(--color-darkgray-100);
+    width: 304px;
+    height: 76px;
+  }
+  .rectangle-div {
+    top: 251px;
+    height: 77px;
+  }
+  .help-5-3 {
+    position: absolute;
+    top: 270px;
+    left: 39px;
+    width: 42px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .manajemen-user-child1 {
+    position: absolute;
+    top: 341px;
+    left: 0;
+    background-color: var(--color-darkgray-100);
+    width: 304px;
+    height: 76px;
+  }
+  .faq,
+  .kritik-saran,
+  .manajemen-user1,
+  .manajemen-user2 {
+    position: absolute;
+    top: 174px;
+    left: 109px;
+    display: inline-block;
+    width: 174px;
+    height: 46px;
+  }
+  .faq,
+  .kritik-saran,
+  .manajemen-user2 {
+    top: 363px;
+    height: 45px;
+  }
+  .faq,
+  .manajemen-user2 {
+    top: 273px;
+  }
+  .manajemen-user2 {
+    top: 0;
+    left: 0;
+    width: 252px;
+    height: 48px;
+  }
+  .manajemen-user-wrapper {
+    position: absolute;
+    top: 34px;
+    left: 445px;
+    width: 252px;
+    height: 48px;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-inknut-antiqua);
+  }
+  .client-management-icon,
+  .client-management-icon1 {
+    position: absolute;
+    top: 34px;
+    left: 379px;
+    width: 60px;
+    height: 57px;
+    object-fit: cover;
+  }
+  .client-management-icon1 {
+    top: 0;
+    left: 0;
+    width: 58px;
+    height: 54.9px;
+  }
+  .client-management-wrapper,
+  .faq-icon {
+    position: absolute;
+    top: 163.9px;
+    left: 31px;
+    width: 58px;
+    height: 54.9px;
+  }
+  .faq-icon {
+    top: 354px;
+    left: 39px;
+    width: 47px;
+    height: 45px;
+    object-fit: cover;
+  }
+  .manajemen-user {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
